@@ -1,0 +1,15 @@
+# Virtual Environment
+.venv/
+venv/
+ENV/
+
+# Python Cache & Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Sensitive Environment Variables
+.env
+
+# Local Logs & Data (اختیاری: اگر نمی‌خواهی لاگ‌های موقت شخصی پوش شوند)
+*.log
